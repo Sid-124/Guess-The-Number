@@ -1,19 +1,5 @@
 "use strict";
 
-/*console.log(document.querySelector(".message").textContent);
-
-//We can change the text not only on console but on webpage
-document.querySelector('.message').textContent = 'Correct Number!';
-
-//changing the secret number and score
-document.querySelector('.number').textContent= 13;
-document.querySelector('.score').textContent = 10;
-
-//keeping at least a value in the box
-document.querySelector('.guess').value = 23;
-console.log(document.querySelector('.guess').value);
-*/
-
 //A function is just a value and we can pass another function as the argument
 
 // Handling click events, {event is something that happens on the webpage
